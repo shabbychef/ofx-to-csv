@@ -4,7 +4,8 @@ require 'rubygems'
 require 'bundler/setup'
 
 require 'ofx-parser'
-require 'fastercsv'
+#require 'fastercsv'
+require 'csv'
 require 'active_support/inflector'
 
 ofx_file = ARGV.shift

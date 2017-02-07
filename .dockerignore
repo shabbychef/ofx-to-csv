@@ -1,0 +1,5 @@
+*.ofx
+*.OFX
+*.csv
+.git
+.gitignore
